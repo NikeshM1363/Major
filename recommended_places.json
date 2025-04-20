@@ -1,0 +1,66 @@
+[
+    {
+        "place_name":"Kirti Mandir Vadodara",
+        "score":833.1,
+        "google_ratings":4.4,
+        "number_of_ratings":203300,
+        "avg_cost_per_person":0,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Sayaji Garden Vadodara",
+        "score":393.63,
+        "google_ratings":4.5,
+        "number_of_ratings":56710,
+        "avg_cost_per_person":0,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Laxmi Vilas Palace Vadodara",
+        "score":281.439,
+        "google_ratings":4.4,
+        "number_of_ratings":19613,
+        "avg_cost_per_person":300,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Kirti Stambh Vadodara",
+        "score":255.531,
+        "google_ratings":4.4,
+        "number_of_ratings":10777,
+        "avg_cost_per_person":0,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Baroda Museum Vadodara",
+        "score":241.645,
+        "google_ratings":4.5,
+        "number_of_ratings":6215,
+        "avg_cost_per_person":250,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Champaner Archaeological Park Pavagadh",
+        "score":239.451,
+        "google_ratings":4.4,
+        "number_of_ratings":5817,
+        "avg_cost_per_person":600,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Vidhyadhar Vaav Stepwell Sevasi Vadodara",
+        "score":232.671,
+        "google_ratings":4.3,
+        "number_of_ratings":3257,
+        "avg_cost_per_person":0,
+        "type_of_place":"Sightseeing"
+    },
+    {
+        "place_name":"Maharaja Fateh Singh Museum Vadodara",
+        "score":231.279,
+        "google_ratings":4.2,
+        "number_of_ratings":2893,
+        "avg_cost_per_person":0,
+        "type_of_place":"Sightseeing"
+    }
+]

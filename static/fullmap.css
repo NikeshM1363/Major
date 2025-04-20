@@ -1,0 +1,794 @@
+.container {
+    position: absolute;
+    left: 57px;
+    margin: 0px;
+    width: 1800px;
+    max-width: 100%;
+}
+
+/*  Sidebar Styling */
+/*  Alert-style Pop-up Window */
+/*  Wider and Scrollable Pop-up */
+.alert-popup {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    /* ⬅️ Increased width */
+    max-width: 90%;
+    /* Ensure it adapts on small screens */
+    height: auto;
+    max-height: 70vh;
+    /* Prevents it from getting too tall */
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    z-index: 2000;
+    display: none;
+    /* Initially hidden */
+    text-align: left;
+    overflow: hidden;
+    /* Prevents outer scroll */
+}
+
+/*  Scrollable Content */
+#popup-content {
+    max-height: 50vh;
+    /* Limits height */
+    overflow-y: auto;
+    /* Enables scrolling */
+    padding-right: 10px;
+    /* Avoids scrollbar overlap */
+}
+
+/*  Close Button */
+.close-btn {
+    /* position: absolute; */
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+/* .sidebar {
+  position: fixed;
+  right: -350px;
+  top: 0;
+  width: 350px;
+  height: 100%;
+  background: white;
+  box-shadow: -3px 0 10px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  transition: right 0.3s ease-in-out;
+  z-index: 1000;
+}
+
+.sidebar.show-sidebar {
+  right: 0;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background: white;
+  color: black;
+}
+
+.close-btn {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: black;
+} */
+
+#map {
+    width: 100%;
+    height: 100%;
+    /* Same as iframe */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo style */
+.logo-txt {
+    font-weight: bold;
+    font-size: 40px;
+    color: #3498db;
+}
+
+/* Timeline container */
+.timeline {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Timeline center line */
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #3498db;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+    border-radius: 3px;
+}
+
+/* Container for content */
+.timeline-container {
+    padding: 10px 30px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+}
+
+/* The circles on the timeline */
+.timeline-container::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: -10px;
+    background-color: white;
+    border: 4px solid #2980b9;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+/* Left containers */
+.left {
+    left: 0;
+}
+
+/* Right containers */
+.right {
+    left: 50%;
+}
+
+/* Add arrows to the left container */
+.left::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 20px;
+    border: medium solid #e8f4fc;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent #e8f4fc;
+}
+
+/* Add arrows to the right container */
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 20px;
+    border: medium solid #e8f4fc;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #e8f4fc transparent transparent;
+}
+
+/* Fix the circle for right containers */
+.right::after {
+    left: -10px;
+}
+
+/* Content styling */
+.content {
+    padding: 15px 20px;
+    background-color: #e8f4fc;
+    position: relative;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+    font-size: 18px;
+    color: #2980b9;
+    margin-bottom: 10px;
+}
+
+.content p {
+    margin: 0;
+    line-height: 1.4;
+    color: #333;
+}
+
+/* Map layout styles */
+.mapframe {
+    border: 1px solid black;
+    /* Increased border thickness */
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+
+    /*  Enhanced Box Shadow */
+    box-shadow:
+        0 4px 15px rgba(0, 0, 0, 0.2),
+        0 0 10px rgba(0, 0, 0, 0.15) inset;
+    /* Border shadow */
+}
+
+/*  Hover Effect */
+#leftPart:hover {
+    transform: scale(1.02);
+    /* Slight scale-up effect */
+    box-shadow:
+        0 6px 20px rgba(0, 0, 0, 0.3),
+        /* Stronger outer shadow */
+        0 0 15px rgba(0, 0, 0, 0.2) inset;
+}
+
+.mapframe:hover {
+    transform: scale(1.02);
+    /* Slight scale-up effect */
+    box-shadow:
+        0 6px 20px rgba(0, 0, 0, 0.3),
+        /* Stronger outer shadow */
+        0 0 15px rgba(0, 0, 0, 0.2) inset;
+    /* Glow-like border effect */
+}
+
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Button styles */
+.hideBtn {
+    display: none;
+}
+
+.displayBtn {
+    display: inline-block !important;
+}
+
+.btn-primary {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.btn-primary:hover {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+/* Layout transformation classes */
+.lessWidth {
+    width: 80% !important;
+    transition: all 2s ease;
+}
+
+.fullWidth {
+    width: 100% !important;
+    transition: all 0.3s ease;
+    left: 20px;
+    position: absolute;
+}
+
+/* Mobile responsiveness - ONLY FOR SMALL SCREENS */
+@media screen and (max-width: 768px) {
+    .timeline::after {
+        left: 31px;
+    }
+
+    .timeline-container {
+        max-width: 150px;
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+    .timeline-container::before {
+        left: 60px;
+        border: medium solid #e8f4fc;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent #e8f4fc transparent transparent;
+    }
+
+    .left::after,
+    .right::after {
+        left: 21px;
+    }
+
+    .right {
+        left: 0%;
+    }
+}
+
+/* No background image */
+.no-bgimg {
+    background-image: none !important;
+    background-color: #f8f9fa;
+}
+
+/* Ensure the left side (itinerary) is scrollable */
+#leftPart {
+    max-height: 80vh;
+    /* Adjust height */
+    overflow-y: auto;
+    /* Enable scrolling */
+    padding-right: 10px;
+    /* Avoid scrollbar overlap */
+}
+
+/* Fix the right side (map) in place */
+#rightPart {
+    position: sticky;
+    /* Keeps it fixed */
+    top: 30px;
+    /* Adjust as needed */
+    height: 80vh;
+    /* Set height */
+}
+
+/* Hide scrollbar but keep scrolling functional */
+#leftPart::-webkit-scrollbar {
+    width: 6px;
+}
+
+#leftPart::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+
+
+/* Add these styles to your existing CSS */
+
+/* Classy sidebar styling */
+.sidebar {
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, 'Open Sans', sans-serif;
+    background: linear-gradient(to bottom, #ffffff, #f8f9fa);
+    box-shadow: -5px 0 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Place details container */
+.sidebar-place-details {
+    padding: 25px 20px;
+}
+
+/* Place title styling */
+.place-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #2c3e50;
+    margin: 0 0 20px 0;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Information section styling */
+.info-section {
+    margin-bottom: 25px;
+}
+
+/* Individual info item */
+.info-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+/* Icon styling */
+.info-icon {
+    flex: 0 0 30px;
+    font-size: 18px;
+    padding-top: 2px;
+}
+
+/* Info content container */
+.info-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+/* Info label styling */
+.info-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #7f8c8d;
+    margin-bottom: 2px;
+}
+
+/* Info value styling */
+.info-value {
+    font-size: 15px;
+    color: #34495e;
+    line-height: 1.4;
+}
+
+/* Reviews count styling */
+.reviews-count {
+    font-size: 13px;
+    color: #95a5a6;
+}
+
+/* Divider styling */
+.divider {
+    height: 1px;
+    background: linear-gradient(to right, transparent, #e0e6ed, transparent);
+    margin: 15px 0 25px 0;
+}
+
+/* Image grid container */
+.image-grid {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Image row */
+.image-row {
+    display: flex;
+    height: 150px;
+}
+
+/* Image cell */
+.image-cell {
+    flex: 1;
+    padding: 2px;
+}
+
+/* Image styling */
+.image-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    border-radius: 2px;
+}
+
+/* Image hover effect */
+.image-cell img:hover {
+    transform: scale(1.05);
+    z-index: 1;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Animate sidebar entry */
+.sidebar.show-sidebar {
+    animation: slide-in 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+@keyframes slide-in {
+    0% {
+        right: -350px;
+        opacity: 0;
+    }
+
+    100% {
+        right: 0;
+        opacity: 1;
+    }
+}
+
+/* Enhanced styling for timeline content */
+
+/* Main container styling */
+#leftPart {
+    padding: 20px;
+    background: linear-gradient(145deg, #f9f9f9, #ffffff);
+}
+
+/* Heading styling */
+#leftPart h2.mb-4 {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: #2980b9;
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+#leftPart h2.mb-4:after {
+    content: '';
+    position: absolute;
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(to right, #3498db, #2c3e50);
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 2px;
+}
+
+/* Timeline content styling */
+.timeline .content {
+    background: white;
+    border-radius: 8px;
+    padding: 18px;
+    border-left: 5px solid #3498db;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+/* Time heading styling */
+.timeline .content h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2c3e50;
+    font-size: 25px;
+    margin: 0 0 10px 0;
+    font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ecf0f1;
+}
+
+/* Travel heading special styling */
+.timeline .content h2:contains("Travel") {
+    color: #e67e22;
+}
+
+/* Paragraph styling */
+.timeline .content p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #34495e;
+    margin: 0;
+}
+
+/* Strong text styling */
+.timeline .content p strong {
+    color: #2980b9;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 70px;
+}
+
+/* Different colors for different entry types */
+.timeline .content:has(p:contains("Travel:")) {
+    border-left-color: #e67e22;
+}
+
+.timeline .content:has(p:contains("Visit:")) {
+    border-left-color: #27ae60;
+}
+
+.timeline .content:has(p:contains("Hotel:")) {
+    border-left-color: #8e44ad;
+}
+
+/* Left vs Right timeline items */
+.timeline-container.left .content {
+    margin-right: 15px;
+}
+
+.timeline-container.right .content {
+    margin-left: 15px;
+}
+
+/* Enhanced hover effect */
+.timeline .content:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Timeline container circles */
+.timeline-container.left::after {
+    border: 4px solid #3498db;
+    background-color: #3498db;
+    transition: all 0.3s ease;
+}
+
+.timeline-container.right::after {
+    border: 4px solid #3498db;
+    background-color: #3498db;
+    transition: all 0.3s ease;
+}
+
+/* Circle color changes based on entry type */
+.timeline-container:has(.content p:contains("Travel:"))::after {
+    border-color: #e67e22;
+}
+
+.timeline-container:has(.content p:contains("Visit:"))::after {
+    border-color: #27ae60;
+}
+
+.timeline-container:has(.content p:contains("Hotel:"))::after {
+    border-color: #8e44ad;
+}
+
+/* Additional styles for the enhanced timeline entries */
+
+/* Timeline time styling */
+.timeline-time {
+    display: flex;
+    align-items: baseline;
+}
+
+.time-value {
+    font-size: 25px;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.time-period {
+    margin-left: 5px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+/* Travel heading styling */
+.timeline-travel {
+    display: flex;
+    align-items: center;
+    color: #e67e22;
+}
+
+.travel-icon {
+    margin-right: 10px;
+    font-style: normal;
+}
+
+/* Entry content styling */
+.entry-content {
+    margin-top: 5px;
+}
+
+.entry-type {
+    display: flex;
+    align-items: flex-start;
+    padding: 5px 0;
+}
+
+.entry-icon {
+    flex: 0 0 30px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.entry-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.entry-label {
+    font-weight: 600;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+
+.entry-details {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #34495e;
+}
+
+/* Different colors for different entry types */
+.entry-type.travel .entry-label {
+    color: #e67e22;
+}
+
+.entry-type.visit .entry-label {
+    color: #27ae60;
+}
+
+.entry-type.hotel .entry-label {
+    color: #8e44ad;
+}
+
+/* Add some subtle animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.timeline-container {
+    animation: fadeIn 0.5s ease forwards;
+    opacity: 0;
+}
+
+.timeline-container:nth-child(1) {
+    animation-delay: 0.2s;
+}
+
+.timeline-container:nth-child(2) {
+    animation-delay: 0.7s;
+}
+
+.timeline-container:nth-child(3) {
+    animation-delay: 1.2s;
+}
+
+.timeline-container:nth-child(4) {
+    animation-delay: 1.7s;
+}
+
+.timeline-container:nth-child(5) {
+    animation-delay: 2.2s;
+}
+
+.timeline-container:nth-child(6) {
+    animation-delay: 2.7s;
+}
+
+.timeline-container:nth-child(7) {
+    animation-delay: 3.2s;
+}
+
+.timeline-container:nth-child(8) {
+    animation-delay: 3.7s;
+}
+
+.timeline-container:nth-child(9) {
+    animation-delay: 4.2s;
+}
+
+.timeline-container:nth-child(10) {
+    animation-delay: 4.7s;
+}
+
+.timeline-container:nth-child(11) {
+    animation-delay: 5.2s;
+}
+
+.timeline-container:nth-child(12) {
+    animation-delay: 5.7s;
+}
+
+.timeline-container:nth-child(13) {
+    animation-delay: 6.2s;
+}
+
+.timeline-container:nth-child(14) {
+    animation-delay: 6.7s;
+}
+
+.timeline-container:nth-child(15) {
+    animation-delay: 7.2s;
+}
+
+.timeline-container:nth-child(16) {
+    animation-delay: 7.7s;
+}
+
+.timeline-container:nth-child(17) {
+    animation-delay: 8.2s;
+}
+
+.timeline-container:nth-child(18) {
+    animation-delay: 8.7s;
+}
+
+.timeline-container:nth-child(19) {
+    animation-delay: 9.2s;
+}
+
+.timeline-container:nth-child(20) {
+    animation-delay: 9.7s;
+}

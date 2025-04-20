@@ -1,0 +1,1732 @@
+[
+    {
+        "city": "Vadodara",
+        "place_name": "Laxmi Vilas Palace Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 19613,
+        "avg_cost_per_person": 300,
+        "open_times": [
+            570
+        ],
+        "close_times": [
+            1020
+        ],
+        "open_time": 570,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "BAPS Shri Swaminarayan Temple Vadodara",
+        "google_ratings": 4.7,
+        "number_of_ratings": 6397,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1170,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Sayaji Garden Vadodara",
+        "google_ratings": 4.5,
+        "number_of_ratings": 56710,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            540
+        ],
+        "close_times": [
+            1020
+        ],
+        "open_time": 540,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "EME Temple Vadodara",
+        "google_ratings": 4.7,
+        "number_of_ratings": 3716,
+        "avg_cost_per_person": 0,
+        "open_time": 300,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Inorbit Mall Vadodara",
+        "google_ratings": 4.5,
+        "number_of_ratings": 46590,
+        "avg_cost_per_person": 500,
+        "open_time": 660,
+        "close_time": 1380,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Barbeque Nation Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 9984,
+        "avg_cost_per_person": 800,
+        "open_time": 720,
+        "close_time": 1025,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Ajwa Fun World Vadodara",
+        "google_ratings": 4.2,
+        "number_of_ratings": 5486,
+        "avg_cost_per_person": 600,
+        "open_time": 600,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Kirti Mandir Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 203300,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            540,
+            870
+        ],
+        "close_times": [
+            720,
+            1020
+        ],
+        "open_time": 540,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Sur Sagar Lake Vadodara",
+        "google_ratings": 4.5,
+        "number_of_ratings": 1551,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            0
+        ],
+        "close_times": [
+            1440
+        ],
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Centre Square Mall Vadodara",
+        "google_ratings": 4.3,
+        "number_of_ratings": 15040,
+        "avg_cost_per_person": 400,
+        "open_time": 600,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Ratri Bazaar Vadodara",
+        "google_ratings": 4.1,
+        "number_of_ratings": 30526,
+        "avg_cost_per_person": 200,
+        "open_time": 1080,
+        "close_time": 240,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Taksh Galaxy Mall Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 9208,
+        "avg_cost_per_person": 500,
+        "open_time": 660,
+        "close_time": 1380,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Vidhyadhar Vaav Stepwell Sevasi Vadodara",
+        "google_ratings": 4.3,
+        "number_of_ratings": 3257,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            0
+        ],
+        "close_times": [
+            1440
+        ],
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Champaner Archaeological Park Pavagadh",
+        "google_ratings": 4.4,
+        "number_of_ratings": 5817,
+        "avg_cost_per_person": 600,
+        "open_times": [
+            360
+        ],
+        "close_times": [
+            1080
+        ],
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Maharaja Fateh Singh Museum Vadodara",
+        "google_ratings": 4.2,
+        "number_of_ratings": 2893,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            570
+        ],
+        "close_times": [
+            1050
+        ],
+        "open_time": 570,
+        "close_time": 1050,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Kotna Beach Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 1283,
+        "avg_cost_per_person": 300,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Baroda Museum Vadodara",
+        "google_ratings": 4.5,
+        "number_of_ratings": 6215,
+        "avg_cost_per_person": 250,
+        "open_times": [
+            600
+        ],
+        "close_times": [
+            1020
+        ],
+        "open_time": 600,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Tapovan Temple Vadodara",
+        "google_ratings": 4.7,
+        "number_of_ratings": 3238,
+        "avg_cost_per_person": 0,
+        "open_time": 420,
+        "close_time": 665,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Skydine Restaurant Vadodara",
+        "google_ratings": 3.9,
+        "number_of_ratings": 2013,
+        "avg_cost_per_person": 600,
+        "open_time": 690,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "DMart Bhayli Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 2867,
+        "avg_cost_per_person": 2000,
+        "open_time": 480,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Kirti Stambh Vadodara",
+        "google_ratings": 4.4,
+        "number_of_ratings": 10777,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Sindhrot Check Dam Vadodara",
+        "google_ratings": 4.3,
+        "number_of_ratings": 1585,
+        "avg_cost_per_person": 350,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "My Restaurant Vadodara",
+        "google_ratings": 4.0,
+        "number_of_ratings": 2345,
+        "avg_cost_per_person": 400,
+        "open_time": 690,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Jay Mahakali Sev Usal Vadodara",
+        "google_ratings": 4.3,
+        "number_of_ratings": 11266,
+        "avg_cost_per_person": 200,
+        "open_time": 510,
+        "close_time": 1260,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Our Lady Of Rosary Church Vadodara",
+        "google_ratings": 4.8,
+        "number_of_ratings": 321,
+        "avg_cost_per_person": 0,
+        "open_time": 360,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Ajmeri Masjid Vadodara",
+        "google_ratings": 4.7,
+        "number_of_ratings": 202,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Snowcity Vadodara",
+        "google_ratings": 3.9,
+        "number_of_ratings": 306,
+        "avg_cost_per_person": 100,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Vadodara",
+        "place_name": "Aatapi Wonderland Vadodara",
+        "google_ratings": 4.5,
+        "number_of_ratings": 16715,
+        "avg_cost_per_person": 50,
+        "open_time": 660,
+        "close_time": 1180,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Manekchowk Food Market Ahmedabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 49394,
+        "avg_cost_per_person": 200,
+        "open_time": 1170,
+        "close_time": 90,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Agashiye Ahmedabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 4990,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Thol Lake Bird Sanctuary Ahmedabad",
+        "google_ratings": 4.3,
+        "number_of_ratings": 6063,
+        "avg_cost_per_person": 50,
+        "open_time": 360,
+        "close_time": 1050,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Shanku's Water Park Ahmedabad",
+        "google_ratings": 4.2,
+        "number_of_ratings": 16639,
+        "avg_cost_per_person": 600,
+        "open_time": 600,
+        "close_time": 1020,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "BAPS Swaminarayan Akshardham Ahmedabad",
+        "google_ratings": 4.6,
+        "number_of_ratings": 19358,
+        "avg_cost_per_person": 0,
+        "open_time": 600,
+        "close_time": 1170,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Hutheesing Jain Temple Ahmedabad",
+        "google_ratings": 4.6,
+        "number_of_ratings": 9475,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Sabarmati Ashram Ahmedabad",
+        "google_ratings": 4.6,
+        "number_of_ratings": 38175,
+        "avg_cost_per_person": 0,
+        "open_time": 600,
+        "close_time": 1080,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Adalaj Stepwell Ahmedabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 28154,
+        "avg_cost_per_person": 250,
+        "open_time": 480,
+        "close_time": 1080,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Nexus Ahmedabad One Ahmedabad",
+        "google_ratings": 4.6,
+        "number_of_ratings": 83247,
+        "avg_cost_per_person": 1000,
+        "open_time": 600,
+        "close_time": 1290,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Law Garden Market Ahmedabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 184,
+        "avg_cost_per_person": 500,
+        "open_time": 1020,
+        "close_time": 1380,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Gopi Dining Hall Ahmedabad",
+        "google_ratings": 4.0,
+        "number_of_ratings": 1798,
+        "avg_cost_per_person": 300,
+        "open_time": 630,
+        "close_time": 1350,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Swati Snacks Ahmedabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 2935,
+        "avg_cost_per_person": 500,
+        "open_time": 720,
+        "close_time": 1365,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Vishalla Ahmedabad",
+        "google_ratings": 4.2,
+        "number_of_ratings": 6069,
+        "avg_cost_per_person": 1000,
+        "open_time": 600,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Indroda Nature Park Ahmedabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 2901,
+        "avg_cost_per_person": 50,
+        "open_time": 480,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Splash The Fun World Ahmedabad",
+        "google_ratings": 3.5,
+        "number_of_ratings": 1903,
+        "avg_cost_per_person": 700,
+        "open_time": 600,
+        "close_time": 1020,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Rancharda Lake Ahmedabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 79,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Sarkhej Roza Ahmedabad",
+        "google_ratings": 4.6,
+        "number_of_ratings": 3292,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1080,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Modhera Sun Temple Ahmedabad",
+        "google_ratings": 4.7,
+        "number_of_ratings": 20472,
+        "avg_cost_per_person": 300,
+        "open_time": 420,
+        "close_time": 1080,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Shree Swaminarayan Mandir Kalupur Ahmedabad",
+        "google_ratings": 4.7,
+        "number_of_ratings": 7341,
+        "avg_cost_per_person": 0,
+        "open_time": 360,
+        "close_time": 1140,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Sidi Saiyyed Mosque Ahmedabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 8508,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Kankaria Lake Ahmedabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 16629,
+        "avg_cost_per_person": 10,
+        "open_time": 540,
+        "close_time": 1320,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Jhulta Minar Ahmedabad",
+        "google_ratings": 4.3,
+        "number_of_ratings": 5206,
+        "avg_cost_per_person": 0,
+        "open_time": 420,
+        "close_time": 1140,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Iscon Mega Mall Ahmedabad",
+        "google_ratings": 4.0,
+        "number_of_ratings": 21277,
+        "avg_cost_per_person": 1000,
+        "open_time": 600,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "R3 The Mall Ahmedabad",
+        "google_ratings": 3.3,
+        "number_of_ratings": 3135,
+        "avg_cost_per_person": 1000,
+        "open_time": 600,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Ahmedabad",
+        "place_name": "Shree Balaji Agora Mall Ahmedabad",
+        "google_ratings": 4.0,
+        "number_of_ratings": 24403,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Bademiya Colaba Mumbai",
+        "google_ratings": 4.4,
+        "number_of_ratings": 18956,
+        "avg_cost_per_person": 400,
+        "open_time": 600,
+        "close_time": 1440,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "The Table Mumbai",
+        "google_ratings": 4.6,
+        "number_of_ratings": 9784,
+        "avg_cost_per_person": 1000,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Shree Thaker Bhojanalay Mumbai",
+        "google_ratings": 4.7,
+        "number_of_ratings": 12568,
+        "avg_cost_per_person": 600,
+        "open_time": 660,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Gajalee Mumbai",
+        "google_ratings": 4.5,
+        "number_of_ratings": 8460,
+        "avg_cost_per_person": 750,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Leopold Cafe Mumbai",
+        "google_ratings": 4.3,
+        "number_of_ratings": 20895,
+        "avg_cost_per_person": 800,
+        "open_time": 600,
+        "close_time": 1440,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Essel World Mumbai",
+        "google_ratings": 4.4,
+        "number_of_ratings": 32567,
+        "avg_cost_per_person": 800,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Sanjay Gandhi National Park Mumbai",
+        "google_ratings": 4.5,
+        "number_of_ratings": 45236,
+        "avg_cost_per_person": 100,
+        "open_time": 480,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Imagicaa Mumbai",
+        "google_ratings": 4.6,
+        "number_of_ratings": 28900,
+        "avg_cost_per_person": 1500,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Karnala Bird Sanctuary Mumbai",
+        "google_ratings": 4.3,
+        "number_of_ratings": 12345,
+        "avg_cost_per_person": 50,
+        "open_time": 420,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Yazoo Park Mumbai",
+        "google_ratings": 4.2,
+        "number_of_ratings": 9560,
+        "avg_cost_per_person": 500,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Siddhivinayak Temple Mumbai",
+        "google_ratings": 4.8,
+        "number_of_ratings": 55890,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Haji Ali Dargah Mumbai",
+        "google_ratings": 4.7,
+        "number_of_ratings": 40236,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Mumba Devi Temple Mumbai",
+        "google_ratings": 4.6,
+        "number_of_ratings": 18562,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Global Vipassana Pagoda Mumbai",
+        "google_ratings": 4.8,
+        "number_of_ratings": 30678,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "ISKCON Temple Mumbai",
+        "google_ratings": 4.7,
+        "number_of_ratings": 21589,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Gateway of India Mumbai",
+        "google_ratings": 4.8,
+        "number_of_ratings": 125678,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Chhatrapati Shivaji Terminus Mumbai",
+        "google_ratings": 4.7,
+        "number_of_ratings": 98654,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Marine Drive Mumbai",
+        "google_ratings": 4.8,
+        "number_of_ratings": 145236,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Elephanta Caves Mumbai",
+        "google_ratings": 4.6,
+        "number_of_ratings": 65489,
+        "avg_cost_per_person": 50,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Juhu Beach Mumbai",
+        "google_ratings": 4.5,
+        "number_of_ratings": 78562,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "Phoenix Marketcity Mumbai",
+        "google_ratings": 4.6,
+        "number_of_ratings": 50236,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "High Street Phoenix Mumbai",
+        "google_ratings": 4.5,
+        "number_of_ratings": 36598,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Mumbai",
+        "place_name": "R City Mall Mumbai",
+        "google_ratings": 4.4,
+        "number_of_ratings": 25890,
+        "avg_cost_per_person": 900,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Bawarchi Restaurant Hyderabad",
+        "google_ratings": 4.1,
+        "number_of_ratings": 81463,
+        "avg_cost_per_person": 300,
+        "open_time": 720,
+        "close_time": 1410,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Hotel Shadab Hyderabad",
+        "google_ratings": 4.0,
+        "number_of_ratings": 83979,
+        "avg_cost_per_person": 300,
+        "open_time": 300,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Chutneys Hyderabad",
+        "google_ratings": 4.0,
+        "number_of_ratings": 12837,
+        "avg_cost_per_person": 300,
+        "open_time": 480,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Shah Ghouse Hyderabad",
+        "google_ratings": 3.9,
+        "number_of_ratings": 5340,
+        "avg_cost_per_person": 300,
+        "open_time": 300,
+        "close_time": 60,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Ohri's Jiva Imperia Hyderabad",
+        "google_ratings": 4.3,
+        "number_of_ratings": 9471,
+        "avg_cost_per_person": 700,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Wonderla Amusement Park Hyderabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 59582,
+        "avg_cost_per_person": 1500,
+        "open_time": 660,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Ananthagiri Hills Hyderabad",
+        "google_ratings": 4.2,
+        "number_of_ratings": 8222,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Snow World Hyderabad",
+        "google_ratings": 4.1,
+        "number_of_ratings": 17616,
+        "avg_cost_per_person": 600,
+        "open_time": 660,
+        "close_time": 1260,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Flipside Adventure Park Hyderabad",
+        "google_ratings": 4.1,
+        "number_of_ratings": 4897,
+        "avg_cost_per_person": 800,
+        "open_time": 900,
+        "close_time": 1440,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Dhola-Ri-Dhani Hyderabad",
+        "google_ratings": 3.4,
+        "number_of_ratings": 1189,
+        "avg_cost_per_person": 3750,
+        "open_time": 840,
+        "close_time": 1320,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Chilkur Balaji Temple Hyderabad",
+        "google_ratings": 4.7,
+        "number_of_ratings": 49158,
+        "avg_cost_per_person": 0,
+        "open_time": 360,
+        "close_time": 1140,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Mecca Masjid Hyderabad",
+        "google_ratings": 4.7,
+        "number_of_ratings": 13290,
+        "avg_cost_per_person": 0,
+        "open_time": 240,
+        "close_time": 1290,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Birla Mandir Hyderabad",
+        "google_ratings": 4.7,
+        "number_of_ratings": 48067,
+        "avg_cost_per_person": 0,
+        "open_time": 420,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "ISKCON Sri Sri Radha Madan Mohan Temple Abids Hyderabad",
+        "google_ratings": 4.8,
+        "number_of_ratings": 18543,
+        "avg_cost_per_person": 0,
+        "open_time": 270,
+        "close_time": 1245,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Ratnaalayam Sri Venkateswara Swamy Temple Hyderabad",
+        "google_ratings": 4.8,
+        "number_of_ratings": 6980,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Charminar Hyderabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 241172,
+        "avg_cost_per_person": 250,
+        "open_times": [
+            540
+        ],
+        "close_times": [
+            1050
+        ],
+        "open_time": 540,
+        "close_time": 1050,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Golconda Fort Hyderabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 132383,
+        "avg_cost_per_person": 200,
+        "open_times": [
+            540
+        ],
+        "close_times": [
+            1020
+        ],
+        "open_time": 540,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Hussain Sagar Lake Hyderabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 13085,
+        "avg_cost_per_person": 0,
+        "open_times": [
+            0
+        ],
+        "close_times": [
+            1440
+        ],
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Salar Jung Museum Hyderabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 72772,
+        "avg_cost_per_person": 500,
+        "open_times": [
+            600
+        ],
+        "close_times": [
+            1020
+        ],
+        "open_time": 600,
+        "close_time": 1020,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Ramoji Film City Hyderabad",
+        "google_ratings": 4.4,
+        "number_of_ratings": 46691,
+        "avg_cost_per_person": 1400,
+        "open_times": [
+            540
+        ],
+        "close_times": [
+            1050
+        ],
+        "open_time": 540,
+        "close_time": 1050,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "GVK One Mall Hyderabad",
+        "google_ratings": 4.3,
+        "number_of_ratings": 72166,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1290,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Inorbit Mall Hyderabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 125885,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1290,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Hyderabad",
+        "place_name": "Sarath City Capital Mall Hyderabad",
+        "google_ratings": 4.5,
+        "number_of_ratings": 82353,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1290,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Vaishali Restaurant Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 28450,
+        "avg_cost_per_person": 250,
+        "open_time": 600,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Shabree Pune",
+        "google_ratings": 4.5,
+        "number_of_ratings": 18400,
+        "avg_cost_per_person": 400,
+        "open_time": 660,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Pune",
+        "place_name": "German Bakery Pune",
+        "google_ratings": 4.4,
+        "number_of_ratings": 20560,
+        "avg_cost_per_person": 500,
+        "open_time": 720,
+        "close_time": 1320,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Malaka Spice Pune",
+        "google_ratings": 4.7,
+        "number_of_ratings": 15600,
+        "avg_cost_per_person": 700,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Bedekar Misal Pune",
+        "google_ratings": 4.5,
+        "number_of_ratings": 11250,
+        "avg_cost_per_person": 200,
+        "open_time": 600,
+        "close_time": 1440,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Rajgad Fort Pune",
+        "google_ratings": 4.7,
+        "number_of_ratings": 18560,
+        "avg_cost_per_person": 50,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Lohagad Fort Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 22560,
+        "avg_cost_per_person": 50,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Sinhagad Fort Pune",
+        "google_ratings": 4.8,
+        "number_of_ratings": 36500,
+        "avg_cost_per_person": 100,
+        "open_time": 480,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Panshet Water Park Pune",
+        "google_ratings": 4.4,
+        "number_of_ratings": 14560,
+        "avg_cost_per_person": 600,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Dagdusheth Halwai Ganpati Temple Pune",
+        "google_ratings": 4.9,
+        "number_of_ratings": 45890,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Chaturshringi Temple Pune",
+        "google_ratings": 4.7,
+        "number_of_ratings": 18400,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Pataleshwar Cave Temple Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 15460,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Pune",
+        "place_name": "ISKCON NVCC Temple Pune",
+        "google_ratings": 4.8,
+        "number_of_ratings": 22560,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Omkareshwar Temple Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 13200,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Shaniwar Wada Pune",
+        "google_ratings": 4.7,
+        "number_of_ratings": 60500,
+        "avg_cost_per_person": 25,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Aga Khan Palace Pune",
+        "google_ratings": 4.5,
+        "number_of_ratings": 40200,
+        "avg_cost_per_person": 50,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Parvati Hill Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 30500,
+        "avg_cost_per_person": 0,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Osho Ashram Pune",
+        "google_ratings": 4.4,
+        "number_of_ratings": 24500,
+        "avg_cost_per_person": 1000,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Pune Okayama Friendship Garden Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 18500,
+        "avg_cost_per_person": 20,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Phoenix Marketcity Pune",
+        "google_ratings": 4.5,
+        "number_of_ratings": 40500,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Seasons Mall Pune",
+        "google_ratings": 4.4,
+        "number_of_ratings": 28500,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Pune",
+        "place_name": "Amanora Mall Pune",
+        "google_ratings": 4.6,
+        "number_of_ratings": 32500,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Karim's New Delhi",
+        "google_ratings": 4.4,
+        "number_of_ratings": 25500,
+        "avg_cost_per_person": 400,
+        "open_time": 600,
+        "close_time": 1440,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Indian Accent New Delhi",
+        "google_ratings": 4.7,
+        "number_of_ratings": 18400,
+        "avg_cost_per_person": 1500,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Sita Ram Diwan Chand New Delhi",
+        "google_ratings": 4.6,
+        "number_of_ratings": 20560,
+        "avg_cost_per_person": 200,
+        "open_time": 600,
+        "close_time": 1320,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Bukhara New Delhi",
+        "google_ratings": 4.5,
+        "number_of_ratings": 22500,
+        "avg_cost_per_person": 1200,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Rajinder Da Dhaba New Delhi",
+        "google_ratings": 4.3,
+        "number_of_ratings": 19500,
+        "avg_cost_per_person": 500,
+        "open_time": 600,
+        "close_time": 1440,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Worlds of Wonder New Delhi",
+        "google_ratings": 4.6,
+        "number_of_ratings": 32000,
+        "avg_cost_per_person": 1000,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Fun N Food Village New Delhi",
+        "google_ratings": 4.3,
+        "number_of_ratings": 18560,
+        "avg_cost_per_person": 800,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Indian Mountaineering Foundation New Delhi",
+        "google_ratings": 4.5,
+        "number_of_ratings": 10250,
+        "avg_cost_per_person": 500,
+        "open_time": 660,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Adventure Island New Delhi",
+        "google_ratings": 4.2,
+        "number_of_ratings": 28500,
+        "avg_cost_per_person": 700,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Shikhar Adventure Park New Delhi",
+        "google_ratings": 4.4,
+        "number_of_ratings": 15500,
+        "avg_cost_per_person": 750,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Akshardham Temple New Delhi",
+        "google_ratings": 4.9,
+        "number_of_ratings": 65000,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Jama Masjid New Delhi",
+        "google_ratings": 4.7,
+        "number_of_ratings": 50500,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Lotus Temple New Delhi",
+        "google_ratings": 4.8,
+        "number_of_ratings": 74000,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Gurudwara Bangla Sahib New Delhi",
+        "google_ratings": 4.9,
+        "number_of_ratings": 87500,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "ISKCON Temple New Delhi",
+        "google_ratings": 4.7,
+        "number_of_ratings": 40250,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "India Gate New Delhi",
+        "google_ratings": 4.8,
+        "number_of_ratings": 125000,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Qutub Minar New Delhi",
+        "google_ratings": 4.7,
+        "number_of_ratings": 95000,
+        "avg_cost_per_person": 50,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Humayun's Tomb New Delhi",
+        "google_ratings": 4.6,
+        "number_of_ratings": 78500,
+        "avg_cost_per_person": 30,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Rashtrapati Bhavan New Delhi",
+        "google_ratings": 4.7,
+        "number_of_ratings": 62000,
+        "avg_cost_per_person": 0,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Red Fort New Delhi",
+        "google_ratings": 4.5,
+        "number_of_ratings": 105000,
+        "avg_cost_per_person": 50,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "DLF Mall of India New Delhi",
+        "google_ratings": 4.6,
+        "number_of_ratings": 50500,
+        "avg_cost_per_person": 1500,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "New Delhi",
+        "place_name": "Select Citywalk New Delhi",
+        "google_ratings": 4.5,
+        "number_of_ratings": 35500,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "MTR (Mavalli Tiffin Room) Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 30500,
+        "avg_cost_per_person": 250,
+        "open_time": 600,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Vidyarthi Bhavan Bengaluru",
+        "google_ratings": 4.5,
+        "number_of_ratings": 28500,
+        "avg_cost_per_person": 200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "CTR (Central Tiffin Room) Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 21500,
+        "avg_cost_per_person": 150,
+        "open_time": 600,
+        "close_time": 1320,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Truffles Bengaluru",
+        "google_ratings": 4.4,
+        "number_of_ratings": 18000,
+        "avg_cost_per_person": 500,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "The Only Place Bengaluru",
+        "google_ratings": 4.3,
+        "number_of_ratings": 16500,
+        "avg_cost_per_person": 800,
+        "open_time": 720,
+        "close_time": 1380,
+        "type_of_place": "Food"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Wonderla Bengaluru",
+        "google_ratings": 4.7,
+        "number_of_ratings": 55000,
+        "avg_cost_per_person": 1200,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Savandurga Hills Bengaluru",
+        "google_ratings": 4.5,
+        "number_of_ratings": 18500,
+        "avg_cost_per_person": 0,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Nandi Hills Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 60500,
+        "avg_cost_per_person": 50,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Ramanagara Trekking Bengaluru",
+        "google_ratings": 4.4,
+        "number_of_ratings": 12500,
+        "avg_cost_per_person": 500,
+        "open_time": 600,
+        "close_time": 1200,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Skandagiri Hills Bengaluru",
+        "google_ratings": 4.3,
+        "number_of_ratings": 9500,
+        "avg_cost_per_person": 300,
+        "open_time": 360,
+        "close_time": 1080,
+        "type_of_place": "Adventure"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "ISKCON Temple Bengaluru",
+        "google_ratings": 4.8,
+        "number_of_ratings": 78000,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Bull Temple Bengaluru",
+        "google_ratings": 4.7,
+        "number_of_ratings": 32000,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Dodda Ganesha Temple Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 18500,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Shivoham Shiva Temple Bengaluru",
+        "google_ratings": 4.8,
+        "number_of_ratings": 30500,
+        "avg_cost_per_person": 0,
+        "open_time": 480,
+        "close_time": 1260,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Gavi Gangadhareshwara Temple Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 16250,
+        "avg_cost_per_person": 0,
+        "open_time": 540,
+        "close_time": 1200,
+        "type_of_place": "Religious"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Lalbagh Botanical Garden Bengaluru",
+        "google_ratings": 4.7,
+        "number_of_ratings": 96500,
+        "avg_cost_per_person": 50,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Cubbon Park Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 80500,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Bangalore Palace Bengaluru",
+        "google_ratings": 4.5,
+        "number_of_ratings": 45500,
+        "avg_cost_per_person": 230,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Tipu Sultan's Summer Palace Bengaluru",
+        "google_ratings": 4.4,
+        "number_of_ratings": 25500,
+        "avg_cost_per_person": 50,
+        "open_time": 600,
+        "close_time": 1800,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Ulsoor Lake Bengaluru",
+        "google_ratings": 4.3,
+        "number_of_ratings": 20500,
+        "avg_cost_per_person": 0,
+        "open_time": 0,
+        "close_time": 1440,
+        "type_of_place": "Sightseeing"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Orion Mall Bengaluru",
+        "google_ratings": 4.6,
+        "number_of_ratings": 40500,
+        "avg_cost_per_person": 1200,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    },
+    {
+        "city": "Bengaluru",
+        "place_name": "Phoenix Marketcity Bengaluru",
+        "google_ratings": 4.5,
+        "number_of_ratings": 38500,
+        "avg_cost_per_person": 1000,
+        "open_time": 660,
+        "close_time": 1320,
+        "type_of_place": "Shopping"
+    }
+]
