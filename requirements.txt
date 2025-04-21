@@ -3,5 +3,5 @@ flask-cors
 requests
 pandas
 orjson
-python-dotenv
 gunicorn
+python-dotenv
